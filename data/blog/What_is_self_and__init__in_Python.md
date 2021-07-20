@@ -19,8 +19,10 @@ The below example shows that `self` and test is referring to same object,
 class same:
     def __init__(self):
         print("Address of self = ",id(self))
+
 test = same()
 print("Address of class object = ",id(test))
+
 #Output
 #Address of self =  40124194801
 #Address of class object =  40124194801
@@ -33,10 +35,13 @@ class Person:
   def __init__(anything, name, age):
     anything.name = name
     anything.age = age
+
   def func(qwerty):
     print("Hello my name is " + qwerty.name)
+
 p = Person("Jack", 26)
 p.func()
+
 #Output
 #Hello my name is Jack
 ```
@@ -55,23 +60,30 @@ class addition:
     def __init__(self, x, y):
         self.x = x
         self.y = y
+
     def add(self):
         return (self.x+self.y)
+
 class subtraction:
     def __init__(self, x, y):
         self.x = x
         self.y = y
+
     def subtract(self):
         return (self.x-self.y)
+
 class math:
     def __init__(self, x, y):
         self.add_op = addition(x, y)
         self.sub_op = subtraction(x, y)
+
     def operations(self):
         print(self.add_op.add())
         print(self.sub_op.subtract())
+
 a = math(10, 5)
 a.operations()
+
 #Output
 15
 5
