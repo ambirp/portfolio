@@ -8,7 +8,7 @@
       <managingEditor>ambir.patel@gmail.com (Ambir Patel)</managingEditor>
       <webMaster>ambir.patel@gmail.com (Ambir Patel)</webMaster>
       <lastBuildDate>Tue, 20 Jul 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://ambirpatel.me/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://ambirpatel.me/tags/netwok-science/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://ambirpatel.me/blog/Community_structures</guid>
@@ -18,16 +18,6 @@
     <pubDate>Tue, 20 Jul 2021 00:00:00 GMT</pubDate>
     <author>ambir.patel@gmail.com (Ambir Patel)</author>
     <category>Netwok Science</category><category>Community structures</category>
-  </item>
-
-  <item>
-    <guid>https://ambirpatel.me/blog/What_is_self_and__init__in_Python</guid>
-    <title>What is self and __init__ in Python</title>
-    <link>https://ambirpatel.me/blog/What_is_self_and__init__in_Python</link>
-    <description>Why we use self and __init__ in python, also what is exact meaning of these.</description>
-    <pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate>
-    <author>ambir.patel@gmail.com (Ambir Patel)</author>
-    <category>python</category><category>datastructures</category>
   </item>
 
     </channel>

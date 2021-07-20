@@ -11,7 +11,7 @@ const projectsData = [
     description: `Creating Networks from data collected by scraping and crawling Wikipedia pages.
     Analyzing statistical properties and recognizing patterns in the real-world networks.`,
     imgSrc: '/static/images/network.png',
-    href: 'https://ambir.medium.com/network-neighborhood-of-a-vertex-3cfb772fc8f0',
+    href: 'https://github.com/ambirpatel/Wikipedia-crawler',
   }
 ]
 
