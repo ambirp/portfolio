@@ -27,7 +27,7 @@ const siteMetadata = {
       mapping: '', // supported options: pathname, url, title
       reactions: '', // Emoji reactions: 1 = enable / 0 = disable
       // Send discussion metadata periodically to the parent window: 1 = enable / 0 = disable
-      metadata: '',
+      metadata: '0',
       // theme example: light, dark, dark_dimmed, dark_high_contrast
       // transparent_dark, preferred_color_scheme, custom
       theme: 'light',
