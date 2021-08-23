@@ -8,7 +8,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/ambirpatel/portfolio',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/images/twitter-card.png',
   email: 'ambir.patel@gmail.com',
   github: 'https://github.com/ambirpatel',
   twitter: 'https://twitter.com/ambir_p',
