@@ -78,4 +78,3 @@ layout: PostLayout
 
 This template is taken from [here](https://github.com/timlrx/tailwind-nextjs-starter-blog).
 Please check this out for latest release.
-
