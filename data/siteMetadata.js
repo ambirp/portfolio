@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'Data Science & Programming',
   description: 'Welcome to my page. Here you can find blogs about data science and programming',
   language: 'en-us',
-  siteUrl: 'https://www.ambirpatel.me',
+  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app/',
   siteRepo: 'https://github.com/ambirpatel/portfolio',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
