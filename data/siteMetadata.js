@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'Ambir Patel',
   description: 'Blogs about data science and programming',
   language: 'en-us',
-  siteUrl: 'https://www.ambirpatel.me',
+  siteUrl: 'https://ambir.vercel.app',
   siteRepo: 'https://github.com/ambirpatel/portfolio',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
