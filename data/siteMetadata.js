@@ -16,9 +16,9 @@ const siteMetadata = {
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
-    plausibleDataDomain: 'https://www.ambirpatel.me', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    plausibleDataDomain: 'ambirpatel.me', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: true, // true or false
-    googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
+    googleAnalyticsId: 'UA-100201704-1', // e.g. UA-000000-2 or G-XXXXXXX
   },
   comment: {
     // Select a provider and use the environment variables associated to it
@@ -27,19 +27,19 @@ const siteMetadata = {
     giscusConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://giscus.app/
-      repo: process.env.NEXT_PUBLIC_GISCUS_REPO,
-      repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
-      category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
-      categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
-      mapping: 'pathname', // supported options: pathname, url, title
-      reactions: '1', // Emoji reactions: 1 = enable / 0 = disable
+      repo: '', //process.env.NEXT_PUBLIC_GISCUS_REPO,
+      repositoryId: '', //process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
+      category: '', //process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
+      categoryId: '', //process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
+      mapping: '', // supported options: pathname, url, title
+      reactions: '', // Emoji reactions: 1 = enable / 0 = disable
       // Send discussion metadata periodically to the parent window: 1 = enable / 0 = disable
-      metadata: '0',
+      metadata: '',
       // theme example: light, dark, dark_dimmed, dark_high_contrast
       // transparent_dark, preferred_color_scheme, custom
-      theme: 'light',
+      theme: '',
       // theme when dark mode
-      darkTheme: 'transparent_dark',
+      darkTheme: '',
       // If the theme option above is set to 'custom`
       // please provide a link below to your custom theme css file.
       // example: https://giscus.app/themes/custom_example.css
@@ -48,7 +48,7 @@ const siteMetadata = {
     utterancesConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://utteranc.es/
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO,
+      repo: '', //process.env.NEXT_PUBLIC_UTTERANCES_REPO,
       issueTerm: '', // supported options: pathname, url, title
       label: '', // label (optional): Comment 💬
       // theme example: github-light, github-dark, preferred-color-scheme
@@ -59,7 +59,7 @@ const siteMetadata = {
     },
     disqus: {
       // https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-      shortname: process.env.NEXT_PUBLIC_DISQUS_SHORTNAME,
+      shortname: '', // process.env.NEXT_PUBLIC_DISQUS_SHORTNAME,
     },
   },
 }
