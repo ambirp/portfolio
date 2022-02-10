@@ -5,7 +5,7 @@ const siteMetadata = {
   description: "Personal website for blogs and portfolio.",
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://new-website-neon.vercel.app/',
+  siteUrl: 'ambir.vercel.app',
   siteRepo: 'https://github.com/ambirpatel/new_website',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.jpg',
