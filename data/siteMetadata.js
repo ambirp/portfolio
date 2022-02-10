@@ -4,9 +4,9 @@ const siteMetadata = {
   headerTitle: 'Data Science & Programming',
   description: "Personal website for blogs and portfolio.",
   language: 'en-us',
-  theme: 'system', // system, dark or light
-  siteUrl: 'ambir.vercel.app',
-  siteRepo: 'https://github.com/ambirpatel/new_website',
+  theme: 'light', // system, dark or light
+  siteUrl: 'https://ambir-ambirpatel.vercel.app/',
+  siteRepo: 'https://github.com/ambirpatel/portfolio',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
