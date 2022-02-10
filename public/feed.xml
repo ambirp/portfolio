@@ -1,19 +1,19 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Data Science Blogs</title>
-      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
-      <description>Welcome to my page. Here you can find blogs about data science and programming</description>
+      <title>Data Science &amp; Programming</title>
+      <link>https://www.ambirpatel.me/blog</link>
+      <description>Personal website for blogs and portfolio.</description>
       <language>en-us</language>
       <managingEditor>ambir.patel@gmail.com (Ambir Patel)</managingEditor>
       <webMaster>ambir.patel@gmail.com (Ambir Patel)</webMaster>
       <lastBuildDate>Tue, 20 Jul 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.ambirpatel.me/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Community_structures</guid>
+    <guid>https://www.ambirpatel.me/blog/Community_structures</guid>
     <title>Community structures within neighborhood of a vertex</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Community_structures</link>
+    <link>https://www.ambirpatel.me/blog/Community_structures</link>
     <description>Network structure in Wikipedia pages.</description>
     <pubDate>Tue, 20 Jul 2021 00:00:00 GMT</pubDate>
     <author>ambir.patel@gmail.com (Ambir Patel)</author>
@@ -21,9 +21,9 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/What_is_self_and__init__in_Python</guid>
+    <guid>https://www.ambirpatel.me/blog/What_is_self_and__init__in_Python</guid>
     <title>What is self and __init__ in Python</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/What_is_self_and__init__in_Python</link>
+    <link>https://www.ambirpatel.me/blog/What_is_self_and__init__in_Python</link>
     <description>Why we use self and __init__ in python, also what is exact meaning of these.</description>
     <pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate>
     <author>ambir.patel@gmail.com (Ambir Patel)</author>
