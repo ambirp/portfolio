@@ -5,7 +5,7 @@ const siteMetadata = {
   description: "Personal website for blogs and portfolio.",
   language: 'en-us',
   theme: 'light', // system, dark or light
-  siteUrl: 'https://blogsite-ambirpatel.vercel.app',
+  siteUrl: 'https://www.ambirpatel.me',
   siteRepo: 'https://github.com/ambirpatel/portfolio',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.jpg',
