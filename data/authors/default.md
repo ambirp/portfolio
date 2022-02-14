@@ -2,9 +2,8 @@
 name: Ambir Patel
 avatar: /static/images/avatar.jpg
 occupation: Data Scientist
-# company: Pivotchain Solutions For more information check out my resume. [Click Here](ambir_patel_cv.pdf)
 email: ambir.patel@gmail.com
-twitter: https://twitter.com/ambir_p
+#twitter: https://twitter.com/ambir_p
 linkedin: https://www.linkedin.com/in/ambirpatel
 github: https://github.com/ambirpatel
 ---
