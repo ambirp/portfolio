@@ -11,7 +11,7 @@ const siteMetadata = {
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: '',
-  github: 'https://github.com/ambirp',
+  github: 'https://github.com/ambirpatel',
   // twitter: 'https://twitter.com/ambir_p',
   // facebook: 'https://www.facebook.com/mrghasemi1992',
   linkedin: 'https://www.linkedin.com/in/ambirpatel',
